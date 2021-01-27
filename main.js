@@ -15,7 +15,7 @@ for (item in data) {
   }
 
   let outputs = {
-    output: item.output;
+    output: item.output
   }
 
   nn.addData(inputs, outputs);
