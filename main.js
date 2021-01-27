@@ -11,7 +11,7 @@ const nn = ml5.neuralNetwork({task: 'classification', debug: true});
 
 for (item in data) {
   let inputs = {
-    text: item.text;
+    text: item.text
   }
 
   let outputs = {

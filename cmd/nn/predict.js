@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 
 module.exports.run = async(client, message, arg, nn) => {
   let input = {
-    text: message.content;
+    text: arg.join(' ')
   }
   nn.classify(input, handleResults)
 }
