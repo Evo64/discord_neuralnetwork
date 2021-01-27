@@ -1,0 +1,26 @@
+{
+   "sad1":{
+      "text": "man today has sucked",
+      "output": "sad"
+   }
+   "sad2":{
+      "text": "ugh"
+      "output": "sad"
+   }
+   "happy1":{
+      "text": "hell yeah"
+      "output": "happy"
+   }
+   "happy2":{
+      "text": "lets fuckin go"
+      "output": "happy"
+   }
+   "angry1":{
+      "text": "shut the hell up"
+      "output": "angry"
+   }
+   "angry2":{
+      "text": "fuck you"
+      "output": "angry"
+   }
+}
